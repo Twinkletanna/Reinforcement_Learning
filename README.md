@@ -3,23 +3,23 @@ Implementation of RL algorithms in various environments
 
 Environments Coded:
 
-GridWorld Environment
-CartPole
-Mountain Car
+1. GridWorld Environment
+2. CartPole
+3. Mountain Car
 
 Algorithms Coded:
 
-Cross Entropy
-First Choice Hill Climbing
-Temporal Difference Learning
-Sarsa Learning
-Q Learning
-TD-Lambda
-Sarsa-Lambda
-Q-Lambda
-Actor Critic
-REINFORCE
+1. Cross Entropy
+2. First Choice Hill Climbing
+3. Temporal Difference Learning
+4. Sarsa Learning
+5. Q Learning
+6. TD-Lambda
+7. Sarsa-Lambda
+8. Q-Lambda
+9. Actor Critic
+10. REINFORCE
 
 Action Selection Techniques:
-Epsilon Greedy
-Softmax
+1. Epsilon Greedy
+2. Softmax
